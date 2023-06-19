@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/team/2.jpeg",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Muhammad Adeel",
+    "position": "Front & Backend Developer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/team/4.jfif",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Ameer hamza",
+    "position": "Developer"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/team/1.jpg",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Atif",
+    "position": "Designer"
+  }
+ 
+]
